@@ -1,0 +1,50 @@
+form {border: 20px;
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    margin-left:30px;
+    margin-right:30px;
+  }
+
+footer {
+    padding: 30px;
+    margin-bottom: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(68, 72, 77);
+}
+
+img {width: 350px;
+    height: 350px;
+
+}
+
+body {
+    background-image: url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-031.jpg);
+}
+
+.blue {
+    /* background-color: aqua; */
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border: 2px solid rgb(30, 117, 210);
+    /* margin: auto */
+}
+.card {
+    margin: auto;
+}
+.sq {
+    margin-bottom: 1em;
+    padding: 2em;
+}
+/*.nav {
+    background-color: rgb(25, 52, 63);
+}*/
+@media screen and (max-width: 768px) {
+    .blue {
+        width: 100%;
+        max-width: 600px;
+        height: auto;
+    }
+}
