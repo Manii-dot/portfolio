@@ -45,7 +45,7 @@ body {
 /*.nav {
     background-color: rgb(25, 52, 63);
 }*/
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
     .blue {
         width: 100%;
         max-width: 600px;
