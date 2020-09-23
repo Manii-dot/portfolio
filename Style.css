@@ -7,9 +7,13 @@ form {border: 20px;
   }
 
 footer {
+    position: fixed;
     padding: 30px;
-    margin-bottom: 25px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
     text-align: center;
     background-color: rgb(68, 72, 77);
 }
